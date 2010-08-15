@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/113/trunk/samples/website
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/113/trunk/samples/website/web.config
+END
+optionalmembers.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113/trunk/samples/website/optionalmembers.ashx
+END
+version.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/113/trunk/samples/website/version.ashx
+END
+RPC2.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/113/trunk/samples/website/RPC2.ashx
+END

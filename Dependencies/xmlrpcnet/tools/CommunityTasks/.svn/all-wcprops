@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/tools/CommunityTasks
+END
+MSBuild.Community.Tasks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/tools/CommunityTasks/MSBuild.Community.Tasks.dll
+END
+MSBuild.Community.Tasks.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/tools/CommunityTasks/MSBuild.Community.Tasks.xsd
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/tools/CommunityTasks/ICSharpCode.SharpZipLib.dll
+END
+MSBuild.Community.Tasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/tools/CommunityTasks/MSBuild.Community.Tasks.xml
+END
+MSBuild.Community.Tasks.Targets
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/tools/CommunityTasks/MSBuild.Community.Tasks.Targets
+END

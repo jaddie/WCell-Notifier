@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/17/trunk/tools/NUnit
+END
+nunit-gui.exe
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-gui.exe
+END
+nunit-gui-runner.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-gui-runner.dll
+END
+nunit-console.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-console.exe.config
+END
+nunit.util.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit.util.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit.framework.dll
+END
+nunit-gui.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-gui.exe.config
+END
+license.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/trunk/tools/NUnit/license.html
+END
+nunit.uikit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit.uikit.dll
+END
+nunit-console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-console.exe
+END
+nunit-console-runner.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit-console-runner.dll
+END
+nunit.core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/17/trunk/tools/NUnit/nunit.core.dll
+END

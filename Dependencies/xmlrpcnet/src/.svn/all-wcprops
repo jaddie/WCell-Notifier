@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/119/trunk/src
+END
+XmlRpcClientFormatterSink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/108/trunk/src/XmlRpcClientFormatterSink.cs
+END
+AssemblyDesc.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/src/AssemblyDesc.cs
+END
+XmlRpcHttpRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/src/XmlRpcHttpRequest.cs
+END
+XmlRpcServerProtocol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/108/trunk/src/XmlRpcServerProtocol.cs
+END
+XmlRpcEndAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/108/trunk/src/XmlRpcEndAttribute.cs
+END
+XmlRpcInt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/108/trunk/src/XmlRpcInt.cs
+END
+XmlRpcDateTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/108/trunk/src/XmlRpcDateTime.cs
+END
+XmlRpcResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/108/trunk/src/XmlRpcResponse.cs
+END
+XmlRpcException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/108/trunk/src/XmlRpcException.cs
+END
+XmlRpcListenerRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/src/XmlRpcListenerRequest.cs
+END
+GuidEx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/108/trunk/src/GuidEx.cs
+END
+XmlRpcClientFormatterSinkProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/108/trunk/src/XmlRpcClientFormatterSinkProvider.cs
+END
+XmlRpcMethodAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/src/XmlRpcMethodAttribute.cs
+END
+XmlRpcParameterAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/108/trunk/src/XmlRpcParameterAttribute.cs
+END
+XmlRpcListenerService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/src/XmlRpcListenerService.cs
+END
+xmlrpc.sln
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/115/trunk/src/xmlrpc.sln
+END
+XmlRpcBeginAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/108/trunk/src/XmlRpcBeginAttribute.cs
+END
+XmlRpcSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/119/trunk/src/XmlRpcSerializer.cs
+END
+xmlrpc.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/110/trunk/src/xmlrpc.csproj
+END
+XmlRpcDouble.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/108/trunk/src/XmlRpcDouble.cs
+END
+XmlRpcProxyGen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/109/trunk/src/XmlRpcProxyGen.cs
+END
+XmlRpcServiceInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/118/trunk/src/XmlRpcServiceInfo.cs
+END
+XmlRpcAsyncResult.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/src/XmlRpcAsyncResult.cs
+END
+XmlRpcClientProtocol.resx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/XmlRpcClientProtocol.resx
+END
+XmlRpcResponseEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/108/trunk/src/XmlRpcResponseEventArgs.cs
+END
+XmlRpcLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/108/trunk/src/XmlRpcLogger.cs
+END
+XmlRpcServerFormatterSink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/108/trunk/src/XmlRpcServerFormatterSink.cs
+END
+XmlRpcStruct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/109/trunk/src/XmlRpcStruct.cs
+END
+AssemblyDescFX1_0.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/AssemblyDescFX1_0.cs
+END
+XmlRpcUrlAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/108/trunk/src/XmlRpcUrlAttribute.cs
+END
+util.cs
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/108/trunk/src/util.cs
+END
+XmlRpcHttpServerProtocol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/108/trunk/src/XmlRpcHttpServerProtocol.cs
+END
+XmlRpcRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/108/trunk/src/XmlRpcRequest.cs
+END
+IXmlRpcProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/117/trunk/src/IXmlRpcProxy.cs
+END
+XmlRpcFaultException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/108/trunk/src/XmlRpcFaultException.cs
+END
+Tracer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/108/trunk/src/Tracer.cs
+END
+XmlRpcServerFormatterSinkProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/108/trunk/src/XmlRpcServerFormatterSinkProvider.cs
+END
+XmlRpcMemberAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/src/XmlRpcMemberAttribute.cs
+END
+XmlRpcParameterInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/108/trunk/src/XmlRpcParameterInfo.cs
+END
+XmlRpcMethodInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/108/trunk/src/XmlRpcMethodInfo.cs
+END
+XmlRpcHttpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/108/trunk/src/XmlRpcHttpResponse.cs
+END
+XmlRpcClientProtocol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/116/trunk/src/XmlRpcClientProtocol.cs
+END
+XmlRpcService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/108/trunk/src/XmlRpcService.cs
+END
+XmlRpcReturnValueAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/108/trunk/src/XmlRpcReturnValueAttribute.cs
+END
+XmlRpcDocWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/XmlRpcDocWriter.cs
+END
+CookComputing.XmlRpc.Targets
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/CookComputing.XmlRpc.Targets
+END
+XmlRpcListenerResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/108/trunk/src/XmlRpcListenerResponse.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/110/trunk/src/AssemblyInfo.cs
+END
+XmlRpcProxyCodeGen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/XmlRpcProxyCodeGen.cs
+END
+XmlRpcRequestEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/108/trunk/src/XmlRpcRequestEventArgs.cs
+END
+XmlRpcMissingMappingAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/108/trunk/src/XmlRpcMissingMappingAttribute.cs
+END
+IHttpRequestHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/108/trunk/src/IHttpRequestHandler.cs
+END
+XmlRpcNonStandard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/src/XmlRpcNonStandard.cs
+END
+IHttpRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/108/trunk/src/IHttpRequest.cs
+END
+SystemMethodsBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/108/trunk/src/SystemMethodsBase.cs
+END
+XmlRpcBoolean.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/108/trunk/src/XmlRpcBoolean.cs
+END
+RequestResponseLogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/108/trunk/src/RequestResponseLogger.cs
+END
+IHttpResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/108/trunk/src/IHttpResponse.cs
+END
+XmlRpcServiceAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/108/trunk/src/XmlRpcServiceAttribute.cs
+END

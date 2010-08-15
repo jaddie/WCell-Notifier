@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/110/trunk/samples/StateNameServer/client
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/samples/StateNameServer/client/AssemblyInfo.cs
+END
+client.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/samples/StateNameServer/client/client.cs
+END
+App.ico
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/samples/StateNameServer/client/App.ico
+END
+client.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/110/trunk/samples/StateNameServer/client/client.csproj
+END

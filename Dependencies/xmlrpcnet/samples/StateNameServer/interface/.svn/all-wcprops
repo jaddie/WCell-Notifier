@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/110/trunk/samples/StateNameServer/interface
+END
+interface.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/110/trunk/samples/StateNameServer/interface/interface.csproj
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/samples/StateNameServer/interface/AssemblyInfo.cs
+END
+IStateName.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/samples/StateNameServer/interface/IStateName.cs
+END

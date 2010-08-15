@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib
+END
+OpenDHTMessageDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/OpenDHTMessageDetails.cs
+END
+OpenDHTBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/OpenDHTBase.cs
+END
+IOpenDHTKeyValue.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/IOpenDHTKeyValue.cs
+END
+OpenDHT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/OpenDHT.cs
+END
+OpenDHTMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/OpenDHTMessage.cs
+END
+IOpenDHT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/samples/opendht/OpenDHTLib/IOpenDHT.cs
+END

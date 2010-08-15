@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/108/trunk/samples/Hosting/AspListener
+END
+AspListener.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/108/trunk/samples/Hosting/AspListener/AspListener.csproj
+END
+HttpListenerWrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/samples/Hosting/AspListener/HttpListenerWrapper.cs
+END
+HttpListenerWorkerRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/samples/Hosting/AspListener/HttpListenerWorkerRequest.cs
+END
+HttpListenerController.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/samples/Hosting/AspListener/HttpListenerController.cs
+END

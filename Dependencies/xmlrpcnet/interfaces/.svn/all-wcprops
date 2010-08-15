@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/interfaces
+END
+vssver.scc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/interfaces/vssver.scc
+END
+BloggerAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/interfaces/BloggerAPI.cs
+END
+MetaWeblogAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/interfaces/MetaWeblogAPI.cs
+END
+MovableTypeAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/interfaces/MovableTypeAPI.cs
+END
+MeerkatAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/interfaces/MeerkatAPI.cs
+END
