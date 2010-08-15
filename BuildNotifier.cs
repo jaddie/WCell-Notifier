@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,7 +32,7 @@ namespace WCellNotifier
         public static System.Timers.Timer SpamTimer = new System.Timers.Timer();
         private IPAddress[] _network;
         public static readonly List<string> ChannelList = new List<string> { settings.Default.NotificationChannel };
-        public static Timer emailNotifications = new Timer(5000);
+        public static Timer emailNotifications = new Timer(30000);
         #endregion
         static void Main()
         {
